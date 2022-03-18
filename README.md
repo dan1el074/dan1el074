@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="naruto-pic" height="150" width="150" src="https://tenor.com/view/uzumaki-naruto-crying-naruto-sad-anime-gif-12751722">
+  <img align="right" alt="sad-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/954434767825281077/954451645247418439/uzumaki-naruto-crying.gif">
 </div>
   
   ##
