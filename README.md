@@ -2,11 +2,6 @@
 
 - 🔭 Atuando como Analista de Desenvolvimento de Sistemas em Gazda - Soluções em impressão.
 - 💬 estudando..
-
-<div align="center">
-  <a href="https://github.com/dan1el074">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dan1el074&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
   
 <pre>
         ___           ___           ___       ___       ___     
