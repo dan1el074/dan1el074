@@ -1,6 +1,6 @@
 ## E ai mano, tranquilo?
 
-- 💼 Atuando como Analista de Desenvolvimento de Sistemas em Gazda - Soluções em impressão.
+- 🔭 Atuando como Analista de Desenvolvimento de Sistemas em Gazda - Soluções em impressão.
 - 💬 estudando..
   
 <pre>
