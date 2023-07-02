@@ -1,7 +1,7 @@
 ## E ai mano, tranquilo?
 
 - 🔭 Atuando como Analista de Desenvolvimento de Sistemas em Gazda - Soluções em impressão.
-- 💬 Estudando Java - Spring Boot
+- 💬 Estudando Java - Spring Boot.
   
 <pre>
   <div align="center">
