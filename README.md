@@ -1,6 +1,6 @@
 ## E ai mano, tranquilo?
 
-- 🔭 Atuando como Analista de Desenvolvimento de Sistemas em Gazda - Soluções em impressão.
+- 🔭 Atuando como freelancer em Design e Analista de Desenvolvimento de Sistemas.
 - 💬 Estudando Java - Spring Boot.
   
 <pre>
