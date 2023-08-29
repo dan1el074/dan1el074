@@ -1,6 +1,6 @@
 ## E ai mano, tranquilo?
 
-- 🔭 Atuando como freelancer em Design e Analista de Desenvolvimento de Sistemas.
+- 🔭 Atuando como freelancer em Design | Angular.
 - 💬 Estudando Java - Spring Boot.
   
 <pre>
