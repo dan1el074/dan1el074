@@ -1,7 +1,7 @@
 ## E ai mano, tranquilo?
 
 - 🔭 Atuando como freelancer em Design | aplicações Angular.
-- 💬 Estudando Java - Spring Boot.
+- 💬 Estudando Java - Spring MVC.
   
 <pre>
    <div align="center">
