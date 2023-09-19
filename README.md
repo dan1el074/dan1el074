@@ -1,4 +1,4 @@
-## E ai mano, tranquilo?
+## E ai, tudo tranquilo?
 
 - 🔭 Atuando como freelancer em Design | aplicações Angular.
 - 💬 Estudando Java - Spring MVC.
