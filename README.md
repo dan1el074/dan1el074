@@ -4,7 +4,7 @@
 - 💬 Estudando Java - Spring MVC.
   
 <pre>
-  <div align="center">Métodologias com as quais eu trabalho ou já tive contato ⬇️</div>
+  <div align="center">Técnologias com as quais eu trabalho ou já tive contato ⬇️</div>
 </pre>
         
 <div style="display: inline_block"><br>
