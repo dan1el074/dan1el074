@@ -1,6 +1,6 @@
 ## E ai, tudo tranquilo?
 
-- 🔭 Atuando como freelancer em Design | aplicações Angular.
+- 🔭 Atuando como freelancer em Design | Node.js | PHP | Angular.
 - 💬 Estudando aplicações back-end com Node, TypeScript & MongoDB.
   
 <pre>
