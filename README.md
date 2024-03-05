@@ -9,10 +9,10 @@
         
 <div align="center" style="display: inline_block"><br>
   <img align="center" title="Adobe Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" >
-  <img align="center" title="Adobe Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/dan1el074/dan1el074/main/photoshop.svg" >
+  <img align="center" title="Adobe Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/dan1el074/dan1el074/0ac9df650ce2d1c797bae2c225551f1acc9341f8/vitrine/photoshop.svg" >
   <img align="center" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" title="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/dan1el074/dan1el074/d7fdf54ad7bcba16c85801a2b5a26360aaf0d8ca/node-js.svg">
+  <img align="center" title="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/dan1el074/dan1el074/0ac9df650ce2d1c797bae2c225551f1acc9341f8/vitrine/node-js.svg">
   <img align="center" title="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,5 +30,5 @@
   <a href="https://www.instagram.com/daniel_rodrigss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:daniel.rvargas10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/dan1el074/dan1el074/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/dan1el074/dan1el074/0ac9df650ce2d1c797bae2c225551f1acc9341f8/vitrine/contribution-snake.svg)
 </div>
