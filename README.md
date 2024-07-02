@@ -1,6 +1,6 @@
 ## E ai, tudo tranquilo?
 
-- 🔭 Atuando na área de Analista de Desenvovimento de Sistemas na Metaro Sistemas Para Movimentacao de Cargas LTDA.
+- 🔭 Atuando como Analista de Desenvovimento de Sistemas na Metaro.
 - 💬 Estudando aplicações back-end com TypeScript e PHP.
   
 <pre>
