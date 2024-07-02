@@ -1,7 +1,7 @@
 ## E ai, tudo tranquilo?
 
-- 🔭 Atuando na área de IT na Metaro, e como freelancer em Design | PHP | Laravel | Typescript | Angular.
-- 💬 Estudando aplicações back-end com Node, TypeScript & MongoDB.
+- 🔭 Atuando na área de Analista de Desenvovimento de Sistemas na Metaro Sistemas Para Movimentacao de Cargas LTDA.
+- 💬 Estudando aplicações back-end com TypeScript e PHP.
   
 <pre>
   <div align="center">Técnologias com as quais eu trabalho ou já tive contato ⬇️</div>
