@@ -1,7 +1,7 @@
 ## E ai, tudo tranquilo?
 
 - 🔭 Atuando como Analista de Desenvovimento de Sistemas na Metaro.
-- 💬 Estudando aplicações back-end com TypeScript e PHP.
+- 💬 Estudando aplicações back-end com Java/Spring e aplicações front-end com Angular.
   
 <pre>
   <div align="center">Técnologias com as quais eu trabalho ou já tive contato ⬇️</div>
