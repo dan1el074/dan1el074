@@ -27,6 +27,6 @@
   <a href="https://www.linkedin.com/in/daniel-rvargas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/daniel_rodrigss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:daniel.rvargas10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://raw.githubusercontent.com/dan1el074/dan1el074/0ac9df650ce2d1c797bae2c225551f1acc9341f8/vitrine/contribution-snake.svg)
+<!--   <br><br>
+  <img align="center" alt="Snake animation" src="https://raw.githubusercontent.com/dan1el074/dan1el074/0ac9df650ce2d1c797bae2c225551f1acc9341f8/vitrine/contribution-snake.svg"> -->
 </div>
